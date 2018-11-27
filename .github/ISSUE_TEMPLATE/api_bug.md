@@ -104,14 +104,14 @@ Stack trace:
 
 # Checklist
 
-Check all boxes that apply to this issue :
- - [ ] bug description is provided
- - [ ] expected comportment is provided
- - [ ] request Path is provided
- - [ ] request Method is provided
- - [ ] request Headers are provided
- - [ ] request Body is provided (for `POST` and `PATCH` requests only)
- - [ ] response Status is provided
- - [ ] response Headers are provided
- - [ ] response Body is provided
+Check all boxes that apply to this issue:
+ - [ ] Bug description is provided
+ - [ ] Expected comportment is provided
+ - [ ] Request Path is provided
+ - [ ] Request Method is provided
+ - [ ] Request Headers are provided
+ - [ ] Request Body is provided (for `POST` and `PATCH` requests only)
+ - [ ] Response Status is provided
+ - [ ] Response Headers are provided
+ - [ ] Response Body is provided
  - [ ] Laravel log is provided

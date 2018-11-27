@@ -1,6 +1,6 @@
 ---
 name: Core Bug
-about: "Report a bug you have encountered using SeAT. Are considered as bugs everything including ACL outage, security outage, Exception, etc... **Note:** Issues related to SeAT API must be reported on the API Issue template. If you're encountering issues while attempting to install SeAT itself, please go to our Slack in #support channel which will be a better place to sort such problems: [Get an invite](https://eveseat-slack.herokuapp.com)"
+about: "Report a bug you have encountered using SeAT. Are considered as bugs everything including ACL outage, Exception, etc... **Note:** Issues related to SeAT API must be reported on the API Issue template. If you're encountering issues while attempting to install SeAT itself, please go to our Slack in #support channel which will be a better place to sort such problems: [Get an invite](https://eveseat-slack.herokuapp.com). **IMPORTANT**: If you found a security outage, please relay it to [theninjabag@gmail.com](mailto:theninjabag@gmail.com)"
 ---
 
 # Bug
@@ -83,10 +83,10 @@ Stack trace:
 
 # Checklist
 
-Check all boxes that apply to this issue :
- - [ ] bug description is provided
- - [ ] expected comportment is provided
+Check all boxes that apply to this issue:
+ - [ ] Bug description is provided
+ - [ ] Expected comportment is provided
  - [ ] Laravel log is provided
  - [ ] Eseye log is provided
- - [ ] package versions are provided
- - [ ] server specification are provided
+ - [ ] Package versions are provided
+ - [ ] Server specification are provided
