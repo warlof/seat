@@ -11,7 +11,7 @@ This should help us to understood what you'd like to be able to do. E.g.:*
 
 It would be great having a corporation Dashboard for Directors/CEOs as home-screen containing following information:
 
-- Compliance stats (#members with valid tokens and token changes),
+- Compliance stats (number of members with valid tokens and token changes),
 - member changes (join/leave),
 - Role/title changes
 - Ship location change by condition (ex: if titan/super leaves delve)
@@ -22,7 +22,7 @@ It would be great having a corporation Dashboard for Directors/CEOs as home-scre
 
 *Please provide an estimate on how this feature helps you in your life as SeAT user.*
 
-As CEO/Director i have the most important KPI's on hand and save up to 20 minutes prior to logging in as i have the relevant informations on hand.
+As CEO/Director I have the most important KPI's on hand and save up to 20 minutes prior to logging in as i have the relevant informations on hand.
 
 ## Mockup
 
@@ -36,9 +36,9 @@ After login, as CEO/Director i land on Corporation Dashboard as homepage instead
 
 ## Alternatives
 
-*Some requests are more complex then others. If you have an idea about alternatives or less complex ideas to implement your feature request, use this space to elaborate your ideas.*
+*Some requests are more complex than others. If you have an idea about alternatives or less complex ideas to implement your feature request, use this space to elaborate your ideas.*
 
-If the corporation dashboard is could not be implemented as landing page after login, extend the corporation sheet accordingly. 
+If the corporation dashboard could not be implemented as landing page after login, extend the corporation sheet accordingly. 
 
 ## Acceptance Criterias
 
@@ -66,4 +66,4 @@ Check all boxes that apply to this issue :
  - [ ] Mockup has been provided
  - [ ] Process has been descriped
  - [ ] Alternatives has been identified
- - [ ] Acceptance criterias has been filled.
+ - [ ] Acceptance criterias has been filled
