@@ -4,7 +4,7 @@ about: "In order to build better products, software developers need user feedbac
 ---
 
 # Feature Request
-*This template contains an example feature request. Please replace all text except for the checklist and the section headers (they start with \#). Thank you for your contribution to improving SeAT.*
+*This template contains an example feature request. Please replace all text except for the checklist and the section headers (they start with \#). Thank you for your contribution to improve SeAT.*
 
 *In this space, please provide a short description of your feature request.
 This should help us to understood what you'd like to be able to do. E.g.:*
@@ -12,17 +12,17 @@ This should help us to understood what you'd like to be able to do. E.g.:*
 It would be great having a corporation Dashboard for Directors/CEOs as home-screen containing following information:
 
 - Compliance stats (number of members with valid tokens and token changes),
-- member changes (join/leave),
+- Member changes (join/leave)
 - Role/title changes
-- Ship location change by condition (ex: if titan/super leaves delve)
-- player interaction by condition (ex: wallet transaction, contract, trade, evemail if set red or on a watch list)
+- Ship location change by condition (ex: if a titan or super has left Delve)
+- Player interaction by condition (ex: wallet transaction, contract, trade, evemail if set red or on a watch list)
 - Structure status (only show structures in low power, less than 24hrs fuel, or reinforced)
 
 ## Business Case
 
 *Please provide an estimate on how this feature helps you in your life as SeAT user.*
 
-As CEO/Director I have the most important KPI's on hand and save up to 20 minutes prior to logging in as i have the relevant informations on hand.
+As CEO/Director I have the most important KPI's on hand and save up to 20 minutes prior to logging in as I have the relevant information on hand.
 
 ## Mockup
 
@@ -64,6 +64,6 @@ Check all boxes that apply to this issue :
  - [ ] Feature Request is filled
  - [ ] Business Case has been explained
  - [ ] Mockup has been provided
- - [ ] Process has been descriped
+ - [ ] Process has been described
  - [ ] Alternatives has been identified
  - [ ] Acceptance criterias has been filled
